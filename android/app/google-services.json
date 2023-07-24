@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208610573996",
+    "project_id": "sprintmanager-3bb13",
+    "storage_bucket": "sprintmanager-3bb13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208610573996:android:3d1e62d10a050dfe21a909",
+        "android_client_info": {
+          "package_name": "com.example.scrum_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208610573996-9pvs3d1um5vli7h1stj7rh3nstqac9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZahLal7gatwLPXF6QfZbY94ahNr25a_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208610573996-9pvs3d1um5vli7h1stj7rh3nstqac9ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
